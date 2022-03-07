@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.contactList {
+  display: flex;
+  justify-content: center;
+}
